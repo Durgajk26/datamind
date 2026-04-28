@@ -1,0 +1,13 @@
+fastapi 
+uvicorn 
+pandas 
+openpyxl 
+google-generativeai 
+python-dotenv 
+streamlit 
+plotly 
+scipy 
+numpy 
+python-multipart 
+reportlab 
+kaleido
